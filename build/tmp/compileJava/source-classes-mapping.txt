@@ -3,9 +3,9 @@ ru/netology/Calculator.java
  ru.netology.Calculator$1
  ru.netology.Calculator$Formula
  ru.netology.Calculator$Operation
-ru/netology/IntsCalculator.java
- ru.netology.IntsCalculator
 ru/netology/Ints.java
  ru.netology.Ints
 ru/netology/Main.java
  ru.netology.Main
+ru/netology/IntsCalculator.java
+ ru.netology.IntsCalculator
